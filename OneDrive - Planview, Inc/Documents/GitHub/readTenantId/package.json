@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/cmurray1105/readTenantId/issues"
   },
-  "homepage": "https://github.com/cmurray1105/readTenantId#readme"
+  "homepage": "https://github.com/cmurray1105/readTenantId#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "ini": "^2.0.0"
+  }
 }
