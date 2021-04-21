@@ -1,0 +1,19 @@
+{
+  "name": "readtenantid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readTenantId.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmurray1105/readTenantId.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmurray1105/readTenantId/issues"
+  },
+  "homepage": "https://github.com/cmurray1105/readTenantId#readme"
+}
