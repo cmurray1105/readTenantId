@@ -4,6 +4,7 @@
   "description": "",
   "main": "readTenantId.js",
   "scripts": {
+    "start": "node readTenantId.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/cmurray1105/readTenantId#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "ini": "^2.0.0"
+    "ini": "^2.0.0",
+    "jenkins": "^0.28.1"
   }
 }
