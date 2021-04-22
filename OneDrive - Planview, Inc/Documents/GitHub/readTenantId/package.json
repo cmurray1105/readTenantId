@@ -4,7 +4,7 @@
   "description": "",
   "main": "readTenantId.js",
   "scripts": {
-    "start": "node readTenantId.js",
+    "start": "node initPrmAdapterBuild.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/cmurray1105/readTenantId#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "ini": "^2.0.0",
-    "jenkins": "^0.28.1"
+    "jenkins": "^0.28.1",
+    "mssql": "^6.3.1"
   }
 }
